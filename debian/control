@@ -26,8 +26,8 @@ Vcs-Git: git://anonscm.debian.org/pkg-kde/kde-extras/plasma-mediacenter.git
 
 Package: plasma-mediacenter
 Architecture: any
-Depends: baloo, qml-module-qtmultimedia, ${misc:Depends}, ${shlibs:Depends}
-Multi-Arch: same
+Depends: baloo, qml-module-qtmultimedia, ${misc:Depends}, ${shlibs:Depends},
+ plasma-workspace
 Recommends: gstreamer0.10-plugins-bad,
             gstreamer0.10-plugins-good,
             gstreamer0.10-plugins-ugly,
@@ -39,6 +39,7 @@ Description: multimedia center for KDE desktop
 
 Package: libplasmamediacenter2
 Architecture: any
+Multi-Arch: same
 Depends: ${misc:Depends}, ${shlibs:Depends}
 Description: multimedia center for KDE desktop - library files
  This package contains libraries for Plasma Media Center
@@ -54,6 +55,7 @@ Description: multimedia center for KDE desktop - development files
 Package: plasma-mediacenter-dbg
 Section: debug
 Architecture: any
+Multi-Arch: same
 Depends: plasma-mediacenter (=${binary:Version}),
          ${misc:Depends},
          ${shlibs:Depend}
