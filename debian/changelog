@@ -1,0 +1,77 @@
+plasma-mediacenter (1.3.0-0ubuntu4) utopic; urgency=medium
+
+  * Remove useless baloo-kf5 build-dep
+  * Depend only on baloo, now a virtual package
+
+ -- Jonathan Riddell <jriddell@ubuntu.com>  Wed, 09 Jul 2014 17:46:16 +0200
+
+plasma-mediacenter (1.3.0-0ubuntu3) utopic; urgency=medium
+
+  * Remove unnecessary package libplasmadaptor LP: #1334595
+
+ -- Jonathan Riddell <jriddell@ubuntu.com>  Wed, 02 Jul 2014 20:19:36 +0200
+
+plasma-mediacenter (1.3.0-0ubuntu2) utopic; urgency=medium
+
+  * New upstream release (LP: #1334595)
+  * Disabled tests, mockcpp is unavailable at this time.
+  * Build with -DNO_LINK_TO_PLASMA=ON to prevent freezes from incompatible
+    gstreamer versions
+
+ -- Scarlett Clark <scarlett@scarlettgatelyclark.com>  Sun, 29 Jun 2014 07:06:26 -0700
+
+plasma-mediacenter (1.2.0-0ubuntu1) trusty; urgency=medium
+
+  * New upstream release
+
+ -- Jonathan Riddell <jriddell@ubuntu.com>  Wed, 19 Feb 2014 10:19:09 +0000
+
+plasma-mediacenter (1.1.9-0ubuntu1) trusty; urgency=low
+
+  * New upstream beta release
+
+ -- Jonathan Riddell <jriddell@ubuntu.com>  Wed, 27 Nov 2013 15:15:20 +0000
+
+plasma-mediacenter (1.1.0a-0ubuntu1) saucy; urgency=low
+
+  * New upstream release with l10n files
+
+ -- Jonathan Riddell <jriddell@ubuntu.com>  Tue, 20 Aug 2013 12:47:13 +0100
+
+plasma-mediacenter (1.1.0-0ubuntu1) saucy; urgency=low
+
+  * New upstream release
+
+ -- Jonathan Riddell <jriddell@ubuntu.com>  Tue, 20 Aug 2013 10:29:59 +0100
+
+plasma-mediacenter (1.0.95-0ubuntu1) saucy; urgency=low
+
+  * New upstream release (LP: #1210935)
+  * Update copyright file
+  * Update plasma-mediacenter.install file
+
+ -- Howard Chan <smartboyhw@gmail.com>  Sun, 11 Aug 2013 14:49:23 +0800
+
+plasma-mediacenter (1.0.90-0ubuntu1) saucy; urgency=low
+
+  * New upstream release (LP: #1209159)
+  * Add a new package libplasmamediacenter1.1 for 
+    the core library
+  * Generate symbols file for libplasmamediacenter1.1
+  * Make plasma-mediacenter-dev depend on libplasmamediacenter1.1
+    = ${binary:Version}
+  * Update debhelper version to >= 9 in debian/control
+  * Update debian/compat to 9
+  * Update copyright file
+  * Add kde-workspace-dev as build-dep
+  * Add libqtmultimediakit1 as dep of plasma-mediacenter 
+  * Add kffmpegthumbnailer as recommends of plasma-mediacenter
+  * Update homepage link
+
+ -- Howard Chan <smartboyhw@gmail.com>  Fri, 02 Aug 2013 11:52:45 +0800
+
+plasma-mediacenter (1.0.0-0ubuntu1) raring; urgency=low
+
+  * Initial release, LP: #1159262
+
+ -- Michal Zajac <quintasan@kubuntu.org>  Wed, 06 Feb 2013 14:29:39 +0100

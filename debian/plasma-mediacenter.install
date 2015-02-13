@@ -1,0 +1,9 @@
+usr/bin/*
+usr/lib/kde4/*
+usr/share/applications/kde4/plasma-mediacenter.desktop
+usr/share/kde4/*
+usr/share/icons/hicolor/64x64/apps/youtube-pmc.png
+usr/share/locale/*
+usr/share/icons/hicolor/192x192/status/
+usr/share/icons/hicolor/64x64/actions/
+usr/lib/libplasmaadapter.so.1.3
