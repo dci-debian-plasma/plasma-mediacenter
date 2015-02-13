@@ -1,42 +1,52 @@
 Source: plasma-mediacenter
 Section: kde
 Priority: extra
-Maintainer: Kubuntu Developers <kubuntu-devel@lists.ubuntu.com>
-XSBC-Original-Maintainer: Michal Zajac <quintasan@kubuntu.org>
-Build-Depends: baloo-dev,
+Maintainer: Debian/Kubuntu Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
+Build-Depends: baloo-kf5-dev,
                cmake,
-               debhelper (>= 9),               
-               kdelibs5-dev,
+               debhelper (>= 9),
+               kio-dev,
+               libkf5config-dev,
+               libkf5configwidgets-dev,
+               libkf5coreaddons-dev,
+               libkf5declarative-dev,
+               libkf5guiaddons-dev,
+               libkf5i18n-dev,
+               libkf5service-dev,
                libkfilemetadata-dev,
-               libqt4-opengl-dev,
                libtag1-dev,
                pkg-kde-tools,
-               shared-desktop-ontologies,
-               kde-workspace-dev
-Standards-Version: 3.9.4
+               plasma-framework-dev,
+               qtdeclarative5-dev
+Standards-Version: 3.9.6
 Homepage: https://projects.kde.org/projects/extragear/multimedia/plasma-mediacenter
+Vcs-Browser: http://anonscm.debian.org/cgit/pkg-kde/kde-extras/plasma-mediacenter.git/
+Vcs-Git: git://anonscm.debian.org/pkg-kde/kde-extras/plasma-mediacenter.git
 
 Package: plasma-mediacenter
 Architecture: any
-Depends: ${misc:Depends}, ${shlibs:Depends}, libdeclarative-multimedia,
-         libqtmultimediakit1, baloo
-Recommends: kffmpegthumbnailer, gstreamer0.10-plugins-ugly, gstreamer0.10-plugins-bad,
-            gstreamer0.10-plugins-good
+Depends: baloo, qml-module-qtmultimedia, ${misc:Depends}, ${shlibs:Depends}
+Multi-Arch: same
+Recommends: gstreamer0.10-plugins-bad,
+            gstreamer0.10-plugins-good,
+            gstreamer0.10-plugins-ugly,
+            kffmpegthumbnailer
 Description: multimedia center for KDE desktop
  KDE Plasma Media Center is aimed towards unified media experience on PCs,
  tablets, netbooks, TVs and any device capable of running KDE software.
  Plasma Media Center can be used to view images, play music or watch videos.
 
-Package: libplasmamediacenter1.3
+Package: libplasmamediacenter2
 Architecture: any
-Depends: ${shlibs:Depends}, ${misc:Depends}
+Depends: ${misc:Depends}, ${shlibs:Depends}
 Description: multimedia center for KDE desktop - library files
  This package contains libraries for Plasma Media Center
 
 Package: plasma-mediacenter-dev
 Architecture: any
-Depends: ${misc:Depends}, ${shlibs:Depends}, 
-         libplasmamediacenter1.3 (= ${binary:Version})
+Depends: libplasmamediacenter2 (= ${binary:Version}),
+         ${misc:Depends},
+         ${shlibs:Depends}
 Description: multimedia center for KDE desktop - development files
  This package contains development files for Plasma Media Center
 
