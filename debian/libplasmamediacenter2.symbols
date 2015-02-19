@@ -1,4 +1,4 @@
-# SymbolsHelper-Confirmed: 1.50.0 amd64
+# SymbolsHelper-Confirmed: 1.50.0 amd64 i386
 libplasmamediacenter.so.2 libplasmamediacenter2 #MINVER#
  _ZN10ObjectPair11qt_metacallEN11QMetaObject4CallEiPPv@Base 1.50.0
  _ZN10ObjectPair11qt_metacastEPKc@Base 1.50.0
@@ -220,8 +220,6 @@ libplasmamediacenter.so.2 libplasmamediacenter2 #MINVER#
  _ZN16PmcMetadataModel15handleNewAlbumsERK5QListI14QSharedPointerI8PmcAlbumEE@Base 1.50.0
  _ZN16PmcMetadataModel16handleNewArtistsERK5QListI14QSharedPointerI9PmcArtistEE@Base 1.50.0
  _ZN16PmcMetadataModel16staticMetaObjectE@Base 1.50.0
- (optional=templinst)_ZN16PmcMetadataModel20albumOrArtistUpdatedI8PmcAlbumEEvPKT_@Base 1.50.0
- (optional=templinst)_ZN16PmcMetadataModel20albumOrArtistUpdatedI9PmcArtistEEvPKT_@Base 1.50.0
  _ZN16PmcMetadataModel20setDefaultDecorationERK7QString@Base 1.50.0
  (optional=templinst)_ZN16PmcMetadataModel24handleNewAlbumsOrArtistsI8PmcAlbumEEvRK5QListI14QSharedPointerIT_EE@Base 1.50.0
  (optional=templinst)_ZN16PmcMetadataModel24handleNewAlbumsOrArtistsI9PmcArtistEEvRK5QListI14QSharedPointerIT_EE@Base 1.50.0
@@ -369,7 +367,6 @@ libplasmamediacenter.so.2 libplasmamediacenter2 #MINVER#
  _ZN8PmcAlbum11qt_metacallEN11QMetaObject4CallEiPPv@Base 1.50.0
  _ZN8PmcAlbum11qt_metacastEPKc@Base 1.50.0
  _ZN8PmcAlbum16staticMetaObjectE@Base 1.50.0
- _ZN8PmcAlbum7updatedEv@Base 1.50.0
  _ZN8PmcAlbumC1ERK14QSharedPointerI5AlbumEP7QObject@Base 1.50.0
  _ZN8PmcAlbumC2ERK14QSharedPointerI5AlbumEP7QObject@Base 1.50.0
  _ZN8PmcAlbumD0Ev@Base 1.50.0
@@ -421,7 +418,6 @@ libplasmamediacenter.so.2 libplasmamediacenter2 #MINVER#
  _ZN9PmcArtist11qt_metacallEN11QMetaObject4CallEiPPv@Base 1.50.0
  _ZN9PmcArtist11qt_metacastEPKc@Base 1.50.0
  _ZN9PmcArtist16staticMetaObjectE@Base 1.50.0
- _ZN9PmcArtist7updatedEv@Base 1.50.0
  _ZN9PmcArtistC1ERK14QSharedPointerI6ArtistEP7QObject@Base 1.50.0
  _ZN9PmcArtistC2ERK14QSharedPointerI6ArtistEP7QObject@Base 1.50.0
  _ZN9PmcArtistD0Ev@Base 1.50.0
