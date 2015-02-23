@@ -1,4 +1,4 @@
-# SymbolsHelper-Confirmed: 1.50.0+git20150220.0024+15.04 amd64 i386
+# SymbolsHelper-Confirmed: 1.50.0+git20150223.0926 amd64 i386
 libplasmamediacenter.so.2 libplasmamediacenter2 #MINVER#
  _ZN10ObjectPair11qt_metacallEN11QMetaObject4CallEiPPv@Base 1.50.0
  _ZN10ObjectPair11qt_metacastEPKc@Base 1.50.0
@@ -171,14 +171,6 @@ libplasmamediacenter.so.2 libplasmamediacenter2 #MINVER#
  _ZN13PmcImageCacheD0Ev@Base 1.50.0
  _ZN13PmcImageCacheD1Ev@Base 1.50.0
  _ZN13PmcImageCacheD2Ev@Base 1.50.0
- _ZN14BackendsLoader11qt_metacallEN11QMetaObject4CallEiPPv@Base 1.50.0
- _ZN14BackendsLoader11qt_metacastEPKc@Base 1.50.0
- _ZN14BackendsLoader16staticMetaObjectE@Base 1.50.0
- _ZN14BackendsLoaderC1EP7QObject@Base 1.50.0
- _ZN14BackendsLoaderC2EP7QObject@Base 1.50.0
- _ZN14BackendsLoaderD0Ev@Base 1.50.0
- _ZN14BackendsLoaderD1Ev@Base 1.50.0
- _ZN14BackendsLoaderD2Ev@Base 1.50.0
  _ZN14MediaValidator11qt_metacallEN11QMetaObject4CallEiPPv@Base 1.50.0
  _ZN14MediaValidator11qt_metacastEPKc@Base 1.50.0
  _ZN14MediaValidator16staticMetaObjectE@Base 1.50.0
@@ -477,8 +469,6 @@ libplasmamediacenter.so.2 libplasmamediacenter2 #MINVER#
  _ZNK13PmcImageCache19containsImageWithIdERK7QString@Base 1.50.0
  _ZNK13PmcImageCache22containsMediaFileCoverERK7QString@Base 1.50.0
  _ZNK13PmcImageCache8getImageERK7QString@Base 1.50.0
- _ZNK14BackendsLoader10metaObjectEv@Base 1.50.0
- _ZNK14BackendsLoader7backendERK7QString@Base 1.50.0
  _ZNK14MediaValidator10metaObjectEv@Base 1.50.0
  _ZNK16FilterMediaModel10metaObjectEv@Base 1.50.0
  _ZNK16FilterMediaModel16filterAcceptsRowEiRK11QModelIndex@Base 1.50.0
@@ -584,7 +574,6 @@ libplasmamediacenter.so.2 libplasmamediacenter2 #MINVER#
  _ZTI13BackendsModel@Base 1.50.0
  _ZTI13PlaylistModel@Base 1.50.0
  _ZTI13PmcImageCache@Base 1.50.0
- _ZTI14BackendsLoader@Base 1.50.0
  _ZTI14MediaValidator@Base 1.50.0
  _ZTI16FilterMediaModel@Base 1.50.0
  _ZTI16KSharedDataCache@Base 1.50.0
@@ -613,7 +602,6 @@ libplasmamediacenter.so.2 libplasmamediacenter2 #MINVER#
  _ZTS13BackendsModel@Base 1.50.0
  _ZTS13PlaylistModel@Base 1.50.0
  _ZTS13PmcImageCache@Base 1.50.0
- _ZTS14BackendsLoader@Base 1.50.0
  _ZTS14MediaValidator@Base 1.50.0
  _ZTS16FilterMediaModel@Base 1.50.0
  _ZTS16KSharedDataCache@Base 1.50.0
@@ -642,7 +630,6 @@ libplasmamediacenter.so.2 libplasmamediacenter2 #MINVER#
  _ZTV13BackendsModel@Base 1.50.0
  _ZTV13PlaylistModel@Base 1.50.0
  _ZTV13PmcImageCache@Base 1.50.0
- _ZTV14BackendsLoader@Base 1.50.0
  _ZTV14MediaValidator@Base 1.50.0
  _ZTV16FilterMediaModel@Base 1.50.0
  _ZTV16PmcMetadataModel@Base 1.50.0
