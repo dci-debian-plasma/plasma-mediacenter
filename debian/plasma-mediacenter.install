@@ -1,3 +1,4 @@
+usr/lib/*/libplasmamediacenter.so.*
 usr/lib/*/qt5/plugins/plasma/mediacenter/
 usr/lib/*/qt5/qml/org/kde/plasma/mediacenter/
 usr/share/applications/plasma-mediacenter.desktop

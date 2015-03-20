@@ -40,13 +40,6 @@ Description: multimedia center for KDE desktop
  tablets, netbooks, TVs and any device capable of running KDE software.
  Plasma Media Center can be used to view images, play music or watch videos.
 
-Package: libplasmamediacenter2
-Architecture: any
-Multi-Arch: same
-Depends: ${misc:Depends}, ${shlibs:Depends}
-Description: multimedia center for KDE desktop - library files
- This package contains libraries for Plasma Media Center
-
 Package: plasma-mediacenter-dbg
 Section: debug
 Architecture: any
