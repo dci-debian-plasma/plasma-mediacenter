@@ -26,7 +26,7 @@ Vcs-Git: git://anonscm.debian.org/pkg-kde/kde-extras/plasma-mediacenter.git
 
 Package: plasma-mediacenter
 Architecture: any
-Depends: baloo,
+Depends: baloo-kf5,
          plasma-workspace,
          qml-module-qtmultimedia,
          ${misc:Depends},
