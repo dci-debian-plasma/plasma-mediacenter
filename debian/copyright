@@ -1,9 +1,9 @@
 Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
 Upstream-Name: plasma-mediacenter
-Source: https://projects.kde.org/projects/playground/multimedia/plasma-mediacenter
+Source: git://anongit.kde.org/plasma-mediacenter
 
 Files: *
-Copyright: 	2007 Aaron Seigo <aseigo@kde.org>
+Copyright:	2007 Aaron Seigo <aseigo@kde.org>
 		2009 Francesco Grieco <fgrieco@gmail.com>
 		2009 Onur-Hayri Bakici <thehayro@gmail.com>
 		2009-2010 Alessandro Diaferia <alediaferia@gmail.com>
