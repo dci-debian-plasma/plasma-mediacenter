@@ -61,7 +61,7 @@ plasma-mediacenter (1.0.95-0ubuntu1) saucy; urgency=low
 plasma-mediacenter (1.0.90-0ubuntu1) saucy; urgency=low
 
   * New upstream release (LP: #1209159)
-  * Add a new package libplasmamediacenter1.1 for 
+  * Add a new package libplasmamediacenter1.1 for
     the core library
   * Generate symbols file for libplasmamediacenter1.1
   * Make plasma-mediacenter-dev depend on libplasmamediacenter1.1
@@ -70,7 +70,7 @@ plasma-mediacenter (1.0.90-0ubuntu1) saucy; urgency=low
   * Update debian/compat to 9
   * Update copyright file
   * Add kde-workspace-dev as build-dep
-  * Add libqtmultimediakit1 as dep of plasma-mediacenter 
+  * Add libqtmultimediakit1 as dep of plasma-mediacenter
   * Add kffmpegthumbnailer as recommends of plasma-mediacenter
   * Update homepage link
 
