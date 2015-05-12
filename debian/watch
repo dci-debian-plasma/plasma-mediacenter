@@ -1,2 +1,2 @@
 version=3
-http://download.kde.org/stable/plasma-mediacenter/([\d\.]*)/src/plasma-mediacenter-(.*)\.tar\.bz2
+http://download.kde.org/stable/plasma/([\d.]+)/src/plasma-mediacenter-([\d.]+)\.tar\.xz
