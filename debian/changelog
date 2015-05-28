@@ -1,3 +1,9 @@
+plasma-mediacenter (4:5.3.1-0ubuntu1) UNRELEASED; urgency=medium
+
+  * Vivid backport.
+
+ -- Scarlett Clark <sgclark@kubuntu.org>  Wed, 27 May 2015 19:24:41 -0700
+
 plasma-mediacenter (4:5.3.0-0ubuntu1) UNRELEASED; urgency=medium
 
   * KDE Frameworks 5 port
