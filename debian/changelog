@@ -9,6 +9,17 @@ plasma-mediacenter (4:5.3.1-0ubuntu1) wily; urgency=medium
   [ Jonathan Riddell ]
   * New upstream release
 
+plasma-mediacenter (5.3.1-1~) UNRELEASED; urgency=medium
+
+  * Initial Debian release.
+  * New upstream patch:
+    upstream_replace_reference_to_license_with_the_bsd_license
+  * New upstream release (5.3.1).
+
+ -- Maximiliano Curia <maxy@debian.org>  Fri, 05 Jun 2015 11:54:15 +0200
+
+plasma-mediacenter (4:5.3.0-0ubuntu1) UNRELEASED; urgency=medium
+
   [ Harald Sitter ]
   * KDE Frameworks 5 port
 
@@ -71,7 +82,7 @@ plasma-mediacenter (1.0.95-0ubuntu1) saucy; urgency=low
 plasma-mediacenter (1.0.90-0ubuntu1) saucy; urgency=low
 
   * New upstream release (LP: #1209159)
-  * Add a new package libplasmamediacenter1.1 for 
+  * Add a new package libplasmamediacenter1.1 for
     the core library
   * Generate symbols file for libplasmamediacenter1.1
   * Make plasma-mediacenter-dev depend on libplasmamediacenter1.1
@@ -80,7 +91,7 @@ plasma-mediacenter (1.0.90-0ubuntu1) saucy; urgency=low
   * Update debian/compat to 9
   * Update copyright file
   * Add kde-workspace-dev as build-dep
-  * Add libqtmultimediakit1 as dep of plasma-mediacenter 
+  * Add libqtmultimediakit1 as dep of plasma-mediacenter
   * Add kffmpegthumbnailer as recommends of plasma-mediacenter
   * Update homepage link
 
