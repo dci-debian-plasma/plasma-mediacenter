@@ -1,11 +1,12 @@
-plasma-mediacenter (5.3.1-1~) UNRELEASED; urgency=medium
+plasma-mediacenter (5.3.2-1~) UNRELEASED; urgency=medium
 
   * Initial Debian release.
   * New upstream patch:
     upstream_replace_reference_to_license_with_the_bsd_license
   * New upstream release (5.3.1).
+  * New upstream release (5.3.2).
 
- -- Maximiliano Curia <maxy@debian.org>  Fri, 05 Jun 2015 11:54:15 +0200
+ -- Maximiliano Curia <maxy@debian.org>  Tue, 30 Jun 2015 12:22:15 +0200
 
 plasma-mediacenter (4:5.3.0-0ubuntu1) UNRELEASED; urgency=medium
 
