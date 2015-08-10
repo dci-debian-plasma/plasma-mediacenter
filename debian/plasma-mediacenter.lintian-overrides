@@ -1,1 +1,2 @@
 plasma-mediacenter: desktop-command-not-in-package usr/share/applications/plasma-mediacenter.desktop plasmashell
+plasma-mediacenter: package-name-doesnt-match-sonames libplasmamediacenter5
