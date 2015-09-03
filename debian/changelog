@@ -1,6 +1,8 @@
 plasma-mediacenter (5.4.0-1~) UNRELEASED; urgency=medium
 
   * New upstream release (5.4.0).
+  * Remove upstream patch:
+    upstream_replace_reference_to_license_with_the_bsd_license
 
  -- Maximiliano Curia <maxy@debian.org>  Wed, 02 Sep 2015 23:35:57 +0200
 
