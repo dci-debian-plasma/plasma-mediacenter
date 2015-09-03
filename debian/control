@@ -37,8 +37,7 @@ Depends: baloo-kf5,
          ${shlibs:Depends}
 Recommends: gstreamer0.10-plugins-bad,
             gstreamer0.10-plugins-good,
-            gstreamer0.10-plugins-ugly,
-            kffmpegthumbnailer
+            gstreamer0.10-plugins-ugly
 Description: multimedia center for KDE desktop
  KDE Plasma Media Center is aimed towards unified media experience on PCs,
  tablets, netbooks, TVs and any device capable of running KDE software.
