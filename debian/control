@@ -47,6 +47,7 @@ Description: multimedia center for KDE desktop
 Package: plasma-mediacenter-dbg
 Section: debug
 Architecture: any
+Priority: extra
 Depends: plasma-mediacenter (=${binary:Version}),
          ${misc:Depends},
          ${shlibs:Depend}
