@@ -1,8 +1,9 @@
-plasma-mediacenter (5.4.0-2~) UNRELEASED; urgency=medium
+plasma-mediacenter (5.4.1-1~) UNRELEASED; urgency=medium
 
   * Merge kubuntu changes.
+  * New upstream release (5.4.1).
 
- -- Maximiliano Curia <maxy@debian.org>  Wed, 09 Sep 2015 09:24:20 +0200
+ -- Maximiliano Curia <maxy@debian.org>  Wed, 09 Sep 2015 09:31:16 +0200
 
 plasma-mediacenter (5.4.0-1) unstable; urgency=medium
 
