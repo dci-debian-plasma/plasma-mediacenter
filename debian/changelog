@@ -1,9 +1,10 @@
-plasma-mediacenter (4:5.3.2-0ubuntu1) UNRELEASED; urgency=medium
+plasma-mediacenter (4:5.4.2-0ubuntu1) UNRELEASED; urgency=medium
 
   * Vivid backport.
   * Fix version 
+  * Vivid backport
 
- -- Scarlett Clark <sgclark@kubuntu.org>  Wed, 27 May 2015 19:24:41 -0700
+ -- Scarlett Clark <sgclark@kubuntu.org>  Mon, 05 Oct 2015 12:11:18 -0700
 
 plasma-mediacenter (4:5.3.0-0ubuntu1) UNRELEASED; urgency=medium
 
