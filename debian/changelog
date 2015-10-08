@@ -1,8 +1,8 @@
 plasma-mediacenter (4:5.4.2-0ubuntu1) UNRELEASED; urgency=medium
 
-  * Vivid backport.
   * Fix version 
   * Vivid backport
+  * Files do not match. Manual merge. 
 
  -- Scarlett Clark <sgclark@kubuntu.org>  Mon, 05 Oct 2015 12:11:18 -0700
 
