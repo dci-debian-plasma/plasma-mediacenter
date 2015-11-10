@@ -1,6 +1,7 @@
 plasma-mediacenter (4:5.4.2-0ubuntu1) UNRELEASED; urgency=medium
 
   * New upstream release
+  * Create backports branch. 
 
  -- Scarlett Clark <sgclark@kubuntu.org>  Thu, 01 Oct 2015 07:33:12 -0700
 
