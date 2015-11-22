@@ -1,3 +1,9 @@
+plasma-mediacenter (4:5.4.3-0ubuntu1) UNRELEASED; urgency=medium
+
+  * New upstream bugfix release (LP: #1518598)
+
+ -- Philip Muškovac <yofel@kubuntu.org>  Sun, 22 Nov 2015 14:14:08 +0100
+
 plasma-mediacenter (4:5.4.2-0ubuntu1) wily; urgency=medium
 
   * New upstream release
