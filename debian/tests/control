@@ -1,4 +1,4 @@
 Tests: testsuite
-Depends: @, debhelper, cmake,
-         xvfb, xauth, dbus-x11
+Depends: @, build-essential, debhelper, cmake,
+         xvfb, xauth, dbus-x11, libqt5test5
 Restrictions: build-needed
