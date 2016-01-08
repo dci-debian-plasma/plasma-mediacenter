@@ -1,16 +1,30 @@
-plasma-mediacenter (4:5.4.3-0ubuntu1) UNRELEASED; urgency=medium
+plasma-mediacenter (4:5.5.3-0ubuntu1) UNRELEASED; urgency=medium
 
-  * New upstream bugfix release
+  [ Scarlett Clark ]
+  * New upstream release Xenial
 
- -- Scarlett Clark <sgclark@kubuntu.org> Wed, 09 Nov 2015 11:00:00  
- 
+  [ Clive Johnston ]
+  * new upstream release
+  * New upstream release
+
+ -- Clive Johnston <clivejo@aol.com>  Thu, 07 Jan 2016 18:00:58 +0000
+
+plasma-mediacenter (4:5.4.3-0ubuntu1) xenial; urgency=medium
+
+  * New upstream bugfix release (LP: #1518598)
+
+ -- Philip Muškovac <yofel@kubuntu.org>  Sun, 22 Nov 2015 16:42:12 +0100
+
 plasma-mediacenter (4:5.4.2-0ubuntu1) wily; urgency=medium
 
-  * New upstream release
-  * Create backports branch. 
   * New upstream bugfix release
+<<<<<<< HEAD
  
  -- Scarlett Clark <sgclark@kubuntu.org> Wed, 09 Nov 2015 11:00:00   
+=======
+
+ -- Scarlett Clark <sgclark@kubuntu.org>  Fri, 02 Oct 2015 16:00:16 +0100
+>>>>>>> kubuntu_xenial_archive
 
 plasma-mediacenter (4:5.4.1-0ubuntu1) wily; urgency=medium
 
