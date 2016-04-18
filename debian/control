@@ -26,8 +26,8 @@ Build-Depends: baloo-kf5-dev,
                qtdeclarative5-dev (>= 5.4)
 Standards-Version: 3.9.6
 Homepage: https://projects.kde.org/projects/kde/workspace/plasma-mediacenter
-Vcs-Browser: http://anonscm.debian.org/cgit/pkg-kde/kde-extras/plasma-mediacenter.git/
-Vcs-Git: git://anonscm.debian.org/pkg-kde/kde-extras/plasma-mediacenter.git
+Vcs-Browser: https://anonscm.debian.org/git/pkg-kde/kde-extras/plasma-mediacenter.git/
+Vcs-Git: https://anonscm.debian.org/git/pkg-kde/kde-extras/plasma-mediacenter.git
 
 Package: plasma-mediacenter
 Architecture: any
