@@ -1,8 +1,19 @@
-plasma-mediacenter (5.6.2-1~1.gbpcdab0d) UNRELEASED; urgency=medium
+plasma-mediacenter (5.6.3-1~1.gbp62a885) UNRELEASED; urgency=medium
 
+  ** SNAPSHOT build @62a8853ce2cab5d20fce8ede047414b1a4b131f0 **
+
+  [ Maximiliano Curia ]
   ** SNAPSHOT build @cdab0ddf73b30cb471fc5a1cf35716469d2fceaa **
+  * New upstream release (5.5.5).
+  * Force installing in debian/tmp
+  * Automatic update with ddeb_migration3.py
+  * Add upstream metadata (DEP-12)
+  * debian/control: Update Vcs-Browser and Vcs-Git fields
 
- -- Maximiliano Curia <jenkins@amadeus.gnuservers.com.ar>  Wed, 06 Apr 2016 23:57:14 +0200
+  [ Automatic packaging ]
+  * Bump Standards-Version to 3.9.8
+
+ -- Maximiliano Curia <maxy@gnuservers.com.ar>  Tue, 19 Apr 2016 17:57:20 +0200
 
 plasma-mediacenter (5.5.4-1) experimental; urgency=medium
 
