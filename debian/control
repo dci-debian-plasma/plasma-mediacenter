@@ -24,7 +24,7 @@ Build-Depends: baloo-kf5-dev,
                plasma-framework-dev (>= 5.5.0~),
                qtbase5-dev (>= 5.4),
                qtdeclarative5-dev (>= 5.4)
-Standards-Version: 3.9.6
+Standards-Version: 3.9.8
 Homepage: https://projects.kde.org/projects/kde/workspace/plasma-mediacenter
 Vcs-Browser: https://anonscm.debian.org/git/pkg-kde/kde-extras/plasma-mediacenter.git/
 Vcs-Git: https://anonscm.debian.org/git/pkg-kde/kde-extras/plasma-mediacenter.git
