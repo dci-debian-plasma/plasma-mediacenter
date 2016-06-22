@@ -1,10 +1,8 @@
-plasma-mediacenter (5.6.5-1~1.gbpd825b5) UNRELEASED; urgency=medium
+plasma-mediacenter (5.6.5-1) unstable; urgency=medium
 
-  ** SNAPSHOT build @d825b59b9ae5da02fb17620902f2198bcc0450d2 **
+  * New upstream release.
 
-  * UNRELEASED
-
- -- Maximiliano Curia <jenkins@gnuservers.com.ar>  Tue, 14 Jun 2016 18:57:11 +0200
+ -- Maximiliano Curia <maxy@debian.org>  Wed, 22 Jun 2016 21:47:28 +0200
 
 plasma-mediacenter (5.6.4-1) unstable; urgency=medium
 
