@@ -1,16 +1,17 @@
-plasma-mediacenter (5.6.5-3~1.gbpfdcb79) UNRELEASED; urgency=medium
+plasma-mediacenter (5.7.0-1~1.gbp923da5) UNRELEASED; urgency=medium
 
-  ** SNAPSHOT build @fdcb790f6458d5005bf73d0bff189af7d9e777e1 **
+  ** SNAPSHOT build @923da5b309724df0c7724e3a0c01dd64270a410d **
 
   [ Pino Toscano ]
   * stop forcing local installation to debian/tmp
   * replace gstreamer0.10-* recommends with gstreamer1.0-* ones
   * release to unstable, as team upload
+  * UNRELEASED
 
   [ Automatic packaging ]
   * Update changelog for 5.6.5-3~1.gbpcb8d81 release
 
- -- Pino Toscano <pino@debian.org>  Sat, 02 Jul 2016 10:48:43 +0200
+ -- Pino Toscano <jenkins@gnuservers.com.ar>  Tue, 05 Jul 2016 18:57:13 +0200
 
 plasma-mediacenter (5.6.5-2) unstable; urgency=medium
 
