@@ -1,3 +1,11 @@
+plasma-mediacenter (5.7.1-1~1.gbpe77baa) UNRELEASED; urgency=medium
+
+  ** SNAPSHOT build @e77baad82224f767aa2b180e149095689cff8130 **
+
+  * UNRELEASED
+
+ -- Maximiliano Curia <jenkins@gnuservers.com.ar>  Tue, 12 Jul 2016 18:57:14 +0200
+
 plasma-mediacenter (5.7.0-1) unstable; urgency=medium
 
   * New upstream release.
