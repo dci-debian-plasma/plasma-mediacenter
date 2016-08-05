@@ -1,11 +1,12 @@
-plasma-mediacenter (5.7.2-1~1.gbpb36e11) UNRELEASED; urgency=medium
+plasma-mediacenter (5.7.3-1~1.gbpccfa4c) UNRELEASED; urgency=medium
 
-  ** SNAPSHOT build @b36e11ccd231abeda5c4380499f593692e052dce **
+  ** SNAPSHOT build @ccfa4c514375659224b0abe102cc83acaa8b614d **
 
   * UNRELEASED
   * UNRELEASED
+  * UNRELEASED
 
- -- Maximiliano Curia <jenkins@gnuservers.com.ar>  Tue, 19 Jul 2016 18:57:24 +0200
+ -- Maximiliano Curia <jenkins@gnuservers.com.ar>  Fri, 05 Aug 2016 12:50:12 +0200
 
 plasma-mediacenter (5.7.0-1) unstable; urgency=medium
 
