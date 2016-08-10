@@ -12,6 +12,9 @@ usr/share/kservices5/plasma-shell-org.kde.plasma.mediacenter.desktop
 usr/share/kservicetypes5/pmc_*.desktop
 usr/share/locale/*/*/plasma-mediacenter.mo
 usr/share/locale/*/*/plasma_shell_org.kde.plasma.mediacenter.mo
+usr/share/metainfo/gridbrowser.appdata.xml
+usr/share/metainfo/listbrowser.appdata.xml
+usr/share/metainfo/org.kde.mediacentercontainment.appdata.xml
 usr/share/plasma/packages/gridbrowser/contents/ui/main.qml
 usr/share/plasma/packages/gridbrowser/metadata.desktop
 usr/share/plasma/packages/listbrowser/contents/ui/ListMediaItem.qml
