@@ -1,9 +1,3 @@
-plasma-mediacenter (4:5.8.6-0neon) xenial; urgency=medium
-
-  * New Plasma LTS release
-
- -- Jonathan Riddell <jriddell@ubuntu.com>  Tue, 21 Feb 2017 17:16:32 +0000
-
 plasma-mediacenter (4:5.7.5-0neon) xenial; urgency=medium
 
   * New release
