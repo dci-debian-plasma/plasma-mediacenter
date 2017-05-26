@@ -6,7 +6,8 @@ usr/share/applications/plasma-mediacenter.desktop
 usr/share/icons/hicolor/*/actions/pmc-back.png
 usr/share/kservices5/plasma-shell-org.kde.plasma.mediacenter.desktop
 usr/share/kservicetypes5/pmc_*.desktop
-usr/share/locale/
+usr/share/locale/*/*/plasma-mediacenter.mo
+usr/share/locale/*/*/plasma_shell_org.kde.plasma.mediacenter.mo
 usr/share/metainfo/org.kde.plasma.mediacenter.appdata.xml
 usr/share/plasma/shells/org.kde.plasma.mediacenter/
 usr/share/xsessions/plasma-mediacenter.desktop
