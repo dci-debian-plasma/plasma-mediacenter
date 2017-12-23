@@ -9,6 +9,7 @@ plasma-mediacenter (5.7.5-0r1) UNRELEASED; urgency=medium
       libkf5windowsystem-dev
     - switch the transitional kio-dev & plasma-framework-dev build dependencies
       to libkf5kio-dev & libkf5plasma-dev
+  * Update lintian overrides.
 
  -- Debian/Kubuntu Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Sat, 23 Dec 2017 10:44:56 +0100
 
